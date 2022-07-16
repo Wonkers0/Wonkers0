@@ -12,7 +12,7 @@
     +-------------------------------------------------------------------+
     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
     
-**ASCII art from [ASCII Art Archive](https://www.asciiart.eu/)**
+# **ASCII art from [ASCII Art Archive](https://www.asciiart.eu/)**
 Author was not specified.
 
 <!---
