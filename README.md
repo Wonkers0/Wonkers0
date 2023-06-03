@@ -19,9 +19,3 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-
-
-# Contact Me
-![Discord](https://img.shields.io/badge/Wonk%208781-Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-![Gmail](https://img.shields.io/badge/wonk0542@gmail.com-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
